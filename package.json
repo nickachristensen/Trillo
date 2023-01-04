@@ -15,6 +15,7 @@
   },
   "author": "Nicholas Christensen",
   "license": "ISC",
+  "browserslist": "last 10 versions",
   "devDependencies": {
     "autoprefixer": "^10.4.13",
     "concat": "^1.0.3",
